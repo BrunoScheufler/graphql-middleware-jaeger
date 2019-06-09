@@ -9,7 +9,7 @@
   "private": false,
   "devDependencies": {
     "@types/graphql": "14.0.5",
-    "@types/mocha": "5.2.5",
+    "@types/mocha": "5.2.7",
     "@types/node": "10.12.18",
     "tslint": "5.12.1",
     "typescript": "3.2.4"
