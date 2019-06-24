@@ -9,7 +9,7 @@
   "private": false,
   "devDependencies": {
     "@types/continuation-local-storage": "3.2.1",
-    "@types/graphql": "14.2.1",
+    "@types/graphql": "14.2.2",
     "@types/mocha": "5.2.7",
     "@types/node": "12.0.10",
     "prettier": "1.18.2",
