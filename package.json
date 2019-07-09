@@ -18,7 +18,7 @@
     "typescript": "3.5.3"
   },
   "dependencies": {
-    "@opencensus/core": "0.0.14",
+    "@opencensus/core": "0.0.15",
     "@opencensus/exporter-jaeger": "0.0.14",
     "@opencensus/nodejs": "0.0.14",
     "graphql-middleware": "3.0.2"

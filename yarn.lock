@@ -81,7 +81,18 @@
     universal-user-agent "^2.0.0"
     url-template "^2.0.8"
 
-"@opencensus/core@0.0.14", "@opencensus/core@^0.0.14":
+"@opencensus/core@0.0.15":
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/@opencensus/core/-/core-0.0.15.tgz#12f29980deb72c2455ce23f6eccee9bc502066b4"
+  integrity sha512-aWYwMhqFaKombsVXLirwUDJtUvV0SNa6mzbrtGIQYq5Yzfh9HGUjjViS4e9yDIOWxxsVZ+e5FLYIP7Nf3Zqj5g==
+  dependencies:
+    continuation-local-storage "^3.2.1"
+    log-driver "^1.2.7"
+    semver "^6.0.0"
+    shimmer "^1.2.0"
+    uuid "^3.2.1"
+
+"@opencensus/core@^0.0.14":
   version "0.0.14"
   resolved "https://registry.yarnpkg.com/@opencensus/core/-/core-0.0.14.tgz#7d4058b4c260713595643fc9dbb5c48ba077297f"
   integrity sha512-JozZkTqm57/g1RfMqZ9ZiJrrJ1O4UnVetVTW2e+AFa0fW+Zam5xBD8UmfNAYy/pIYfejknKEO6x9LFW95bbxcw==
