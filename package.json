@@ -11,7 +11,7 @@
     "@types/continuation-local-storage": "3.2.1",
     "@types/graphql": "14.2.2",
     "@types/mocha": "5.2.7",
-    "@types/node": "12.6.4",
+    "@types/node": "12.6.6",
     "prettier": "1.18.2",
     "semantic-release": "15.13.18",
     "tslint": "5.18.0",
