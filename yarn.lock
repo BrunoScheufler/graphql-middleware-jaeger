@@ -81,7 +81,7 @@
     universal-user-agent "^2.0.0"
     url-template "^2.0.8"
 
-"@opencensus/core@0.0.17":
+"@opencensus/core@0.0.17", "@opencensus/core@^0.0.17":
   version "0.0.17"
   resolved "https://registry.yarnpkg.com/@opencensus/core/-/core-0.0.17.tgz#2cd7c211168eeda48667f8db19717c93955f5372"
   integrity sha512-cFaS72oQmZJZdTEFOnHEopOVbgYbyVC0kaVt2IDNgjZV6cuKxTyWEKCLEAW8/VdWPz2MnflJZfeE0cRXQ1AB0g==
@@ -103,12 +103,12 @@
     shimmer "^1.2.0"
     uuid "^3.2.1"
 
-"@opencensus/exporter-jaeger@0.0.16":
-  version "0.0.16"
-  resolved "https://registry.yarnpkg.com/@opencensus/exporter-jaeger/-/exporter-jaeger-0.0.16.tgz#901b71c9d05c8ef903d4fc7cb4eef8b71bd6cf9a"
-  integrity sha512-djwBrAO/nxTXGtfjbv/XG7MEE7OV+4Vktjjm+RtJj4OQFRzv/8ed2qOfLVUzmDIF501VkYV/TXH2m5tLIgXMeA==
+"@opencensus/exporter-jaeger@0.0.17":
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/@opencensus/exporter-jaeger/-/exporter-jaeger-0.0.17.tgz#c8366a51e314300f0c5a3afba2db966012b6fd62"
+  integrity sha512-8XrHUgnO0LLdXgazaCXWbuaOKoE9hpXuaw8I5DlIzZCv0aZyWH/MuHgJB+FfC18UWoQzOK221NF7Ko5epe7jyA==
   dependencies:
-    "@opencensus/core" "^0.0.16"
+    "@opencensus/core" "^0.0.17"
     jaeger-client "~3.15.0"
 
 "@opencensus/instrumentation-all@^0.0.16":
