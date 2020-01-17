@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/continuation-local-storage": "3.2.2",
     "@types/mocha": "5.2.7",
-    "@types/node": "13.1.7",
+    "@types/node": "13.1.8",
     "prettier": "1.19.1",
     "semantic-release": "15.14.0",
     "tslint": "5.20.1",
