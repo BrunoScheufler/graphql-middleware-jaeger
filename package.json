@@ -19,7 +19,7 @@
   "dependencies": {
     "@opencensus/core": "0.0.21",
     "@opencensus/exporter-jaeger": "0.0.21",
-    "@opencensus/nodejs": "0.0.20",
+    "@opencensus/nodejs": "0.0.21",
     "graphql": "^14.5.8",
     "graphql-middleware": "4.0.2"
   },
