@@ -14,7 +14,7 @@
     "prettier": "1.19.1",
     "semantic-release": "15.14.0",
     "tslint": "5.20.1",
-    "typescript": "3.9.6"
+    "typescript": "3.9.7"
   },
   "dependencies": {
     "@opencensus/core": "0.0.22",
